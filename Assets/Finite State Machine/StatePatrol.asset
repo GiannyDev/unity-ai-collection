@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ba611ae0322c5e4ca71dd0c2ce11fac, type: 3}
+  m_Name: StatePatrol
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: 9057e82f79f8f9c4cb6f2317d79e5aa1, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 3c996b990949a3d469b149e73d5d4a7d, type: 2}
+    TrueState: {fileID: 11400000, guid: ed124878ebf5adf4b848818e74b3f6d9, type: 2}
+    FalseState: {fileID: 11400000, guid: 6f7114d7e8a9ca045b0d84dcfbe7b2af, type: 2}
