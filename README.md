@@ -7,6 +7,8 @@ This repository features a modular collection of artificial intelligence systems
 - 🔁 **Finite State Machines (FSM)**  
   State-driven AI for predictable behavior switching.
 
+  [FSM DEMO] ("Assets/Images/fsm.jpg")
+
 - 🌳 **Behavior Trees**  
   Hierarchical decision-making for complex and flexible AI logic.
 
