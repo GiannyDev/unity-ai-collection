@@ -1,6 +1,6 @@
 # 🧠 Unity AI Systems Showcase
 
-This repository features a modular collection of artificial intelligence systems implemented in Unity. It's designed for both educational purposes, showcasing a variety of AI techniques used in modern games and simulations.
+This repository features a modular collection of artificial intelligence systems implemented in Unity. It's designed for educational purposes, showcasing a variety of AI techniques used in modern games and simulations.
 
 ## 🚀 Features
 
